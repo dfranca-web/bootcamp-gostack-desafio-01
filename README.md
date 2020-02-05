@@ -31,7 +31,8 @@ Praticando os seguintes conceitos:
 
 São metódos responsáveis por interceptar requisições e fazer algum tipo de tratamento como validações, pesquisas, e etc. Podemos ver um metódo que esta sendo utilizado para verificar se um projeto existe.
 
-`function checkProjectExist(req, res, next) {
+```js
+function checkProjectExist(req, res, next) {
   const { id } = req.params;
   const project = searchProject(id);
 
@@ -41,7 +42,8 @@ São metódos responsáveis por interceptar requisições e fazer algum tipo de 
     });
   }
   next();
-}`
+}
+```
 
 <h3 align="center">
     <img alt="GoStack" src="https://github.com/dfranca-web/bootcamp-gostack-desafio-01/blob/master/src/assets/visual-studio-code.PNG?raw=true" />
