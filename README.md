@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://github.com/dfranca-web/bootcamp-gostack-desafio-01/blob/master/src/assets/logo-stronglab.PNG?raw=true" width="200px" />
+    <img alt="GoStack" src="https://github.com/dfranca-web/bootcamp-gostack-desafio-01/blob/master/src/assets/logo-stronglab.PNG?raw=true" />
 </h1>
 
 <h3 align="center">
